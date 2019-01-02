@@ -19,5 +19,5 @@ In this repository I am focusing on how to use Amazon ML from your local machine
 When I used Amazon ML I go this result 
 
 
-![Result](images/kaggleResult.png.png)
+![Result](images/kaggleResult.png)
 
