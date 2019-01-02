@@ -1,4 +1,5 @@
-# forest-cover-type
+# Forest Cover Type Prediction
+
 In the problem statement it's asked to predict the forest cover type (the predominant kind of tree cover) from strictly cartographic variables. Trying to classify it with different frameworks & platforms, and trying to compare the results.
 
 
